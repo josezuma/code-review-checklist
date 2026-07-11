@@ -1,7 +1,7 @@
 # FAQ
 
 ## What is code-review-checklist?
-A CLI tool for code review checklist.
+Code Review Checklist
 
 ## Dependencies?
 Python stdlib only.
