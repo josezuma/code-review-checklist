@@ -1,7 +1,10 @@
 # FAQ
 
 ## What is code-review-checklist?
-Code review checklist generator
+A CLI tool for code review checklist.
 
 ## Dependencies?
 Python stdlib only.
+
+## Author
+Jose Zuma
